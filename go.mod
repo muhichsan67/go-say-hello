@@ -1,3 +1,3 @@
 module github.com/muhichsan67/go-say-hello
 
-go 1.19
+go 1.195
