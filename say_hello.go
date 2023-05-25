@@ -1,7 +1,8 @@
 package go_say_hello
 
-func SayHello() string {
-	return "Hi!"
+// Major Change : Perubahan yg dilakukan merusak code yg sebelumnya sudah berjalan
+func SayHello(name string) string {
+	return "Hello " + name
 }
 
 func SayMyName(name string) string {
